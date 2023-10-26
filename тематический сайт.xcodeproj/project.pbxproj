@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		C716C6D22AEA47460054C12E /* flipflop.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = flipflop.html; sourceTree = "<group>"; };
 		C7E044622AEA1A7F006FC697 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		C7E044632AEA1A8F006FC697 /* print.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = print.css; sourceTree = "<group>"; };
 		C7E044652AEA1DDF006FC697 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
@@ -19,6 +20,7 @@
 		C7E0445A2AEA19B3006FC697 = {
 			isa = PBXGroup;
 			children = (
+				C716C6D22AEA47460054C12E /* flipflop.html */,
 				C7E044672AEA3F1A006FC697 /* sleep.html */,
 				C7E044682AEA3F1A006FC697 /* sneak.html */,
 				C7E044662AEA3F1A006FC697 /* work.html */,
