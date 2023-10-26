@@ -9,7 +9,7 @@
 /* Begin PBXFileReference section */
 		C7E044622AEA1A7F006FC697 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		C7E044632AEA1A8F006FC697 /* print.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = print.css; sourceTree = "<group>"; };
-		C7E044652AEA1DDF006FC697 /* index main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index main.html"; sourceTree = "<group>"; };
+		C7E044652AEA1DDF006FC697 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		C7E044662AEA3F1A006FC697 /* work.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = work.html; sourceTree = "<group>"; };
 		C7E044672AEA3F1A006FC697 /* sleep.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sleep.html; sourceTree = "<group>"; };
 		C7E044682AEA3F1A006FC697 /* sneak.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sneak.html; sourceTree = "<group>"; };
@@ -22,7 +22,7 @@
 				C7E044672AEA3F1A006FC697 /* sleep.html */,
 				C7E044682AEA3F1A006FC697 /* sneak.html */,
 				C7E044662AEA3F1A006FC697 /* work.html */,
-				C7E044652AEA1DDF006FC697 /* index main.html */,
+				C7E044652AEA1DDF006FC697 /* index.html */,
 				C7E044632AEA1A8F006FC697 /* print.css */,
 				C7E044622AEA1A7F006FC697 /* styles.css */,
 			);
