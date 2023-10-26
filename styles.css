@@ -1,0 +1,106 @@
+/* Стили для основной страницы */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:orange;
+}
+
+h0 {
+    color:white;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+a:hover {
+    color: white
+}
+
+header {
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 20px;
+}
+
+img {
+    width: 250px;
+    height: 150px;
+}
+
+.sale1 {
+    width: 70%;
+    height: 100%;
+}
+.sale2 {
+    width: 70%;
+    height: 100%;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.product {
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+.product img {
+    max-width: 100%;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.sidebar {
+    width: 25%;
+    padding: 10px;
+}
+
+/* Стили для печати */
+@media print {
+    nav, .sidebar {
+        display: none;
+    }
+    main {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+/* Другие стили, включая стили для разных страниц, добавьте по мере необходимости */
+

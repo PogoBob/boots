@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, .sidebar, footer {
+    display: none;
+}
+
+main {
+    width: 100%;
+    margin: 0;
+}
+
+.products {
+    width: 100%;
+}
+
+.product {
+    width: 100%;
+    margin: 0;
+    border: none;
+    page-break-before: always;
+}
+
+.product img {
+    max-width: 100%;
+}
+
+.price {
+    font-weight: bold;
+}
+

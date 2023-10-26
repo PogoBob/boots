@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C7E044622AEA1A7F006FC697 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		C7E044632AEA1A8F006FC697 /* print.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = print.css; sourceTree = "<group>"; };
+		C7E044652AEA1DDF006FC697 /* index main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "index main.html"; sourceTree = "<group>"; };
+		C7E044662AEA3F1A006FC697 /* work.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = work.html; sourceTree = "<group>"; };
+		C7E044672AEA3F1A006FC697 /* sleep.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sleep.html; sourceTree = "<group>"; };
+		C7E044682AEA3F1A006FC697 /* sneak.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = sneak.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C7E0445A2AEA19B3006FC697 = {
+			isa = PBXGroup;
+			children = (
+				C7E044672AEA3F1A006FC697 /* sleep.html */,
+				C7E044682AEA3F1A006FC697 /* sneak.html */,
+				C7E044662AEA3F1A006FC697 /* work.html */,
+				C7E044652AEA1DDF006FC697 /* index main.html */,
+				C7E044632AEA1A8F006FC697 /* print.css */,
+				C7E044622AEA1A7F006FC697 /* styles.css */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C7E0445B2AEA19B3006FC697 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = C7E0445E2AEA19B3006FC697 /* Build configuration list for PBXProject "тематический сайт" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C7E0445A2AEA19B3006FC697;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C7E0445F2AEA19B3006FC697 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C7E044602AEA19B3006FC697 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C7E0445E2AEA19B3006FC697 /* Build configuration list for PBXProject "тематический сайт" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7E0445F2AEA19B3006FC697 /* Debug */,
+				C7E044602AEA19B3006FC697 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C7E0445B2AEA19B3006FC697 /* Project object */;
+}
